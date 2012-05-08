@@ -1,0 +1,3 @@
+multiclass classifier using logistic regression
+train model£ºoptTheta=trainClassifier(K,X,y)
+test model: testClassifier(K,tX,ty,optTheta)
